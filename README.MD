@@ -1,3 +1,5 @@
+Repository Link: https://github.com/abhinav12m/Clinical-Trial
+
 # Reddit Sentiment Analysis on Clinical Trials
 
 This Python script analyzes the sentiment of comments on Reddit posts related to clinical trials across various subreddits. It uses the PRAW library to interact with the Reddit API, the VADER library for sentiment analysis, and the OpenAI GPT-3.5 language model to generate responses based on the sentiment.
